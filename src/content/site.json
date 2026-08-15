@@ -1,0 +1,171 @@
+{
+  "discordLink": "https://dsteam.store/discord",
+  "projects": [
+    {
+      "name": "LÀNG XÌ TRUM",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "ORA CITY",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "THỊ TRẤN CÚ ĐÊM",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "CANDY WORLD",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "FOX TOWN",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "DOLLY CITY",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "BEAR HOUSE",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "BERRY GARDEN",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "TEDDY CITY",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "SUNSHINE",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "WOLF TOWN",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "SOLARIS",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "LOUD TOWN",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    },
+    {
+      "name": "VEXY CITY",
+      "location": "Việt Nam",
+      "image": "",
+      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
+      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
+      "status": "Ngưng phát hành"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Khang Bỉn",
+      "role": "3D DESIGNER",
+      "image": "https://cdn.discordapp.com/avatars/1464613136744317018/4f09209ffc1c13793d3185416bc493bd.png?size=512",
+      "socials": [
+        { "type": "discord", "nametag": "khangbin.DSTEAM", "url": "https://discord.gg/DSTEAM" }
+      ]
+    },
+    {
+      "name": "Bé Bảo Châu",
+      "role": "GAME MASTER",
+      "image": "https://cdn.discordapp.com/avatars/1291999473643421746/80b9cdea8a4c50717cea0a041866aa38.png?size=512",
+      "socials": [
+        { "type": "discord", "nametag": "embechauu", "url": "https://discord.gg/DSTEAM" }
+      ]
+    },
+    {
+      "name": "Danh Cái Bè",
+      "role": "GAME MASTER",
+      "image": "https://cdn.discordapp.com/avatars/524131419962736640/5fbd08b4c178b562abf44c892ab95bd0.png?size=512",
+      "socials": [
+        { "type": "discord", "nametag": "cam_mi3105", "url": "https://discord.gg/DSTEAM" }
+      ]
+    },
+    {
+      "name": "Natszy",
+      "role": "GAME MASTER",
+      "image": "https://cdn.discordapp.com/avatars/402026159879094272/37dddac7d2f72f25c15eaaee47baed4e.png?size=512",
+      "socials": [
+        { "type": "discord", "nametag": "1natszy_9", "url": "https://discord.gg/DSTEAM" }
+      ]
+    },
+    {
+      "name": "Neit",
+      "role": "GAME MASTER · UI/UX",
+      "image": "https://cdn.discordapp.com/avatars/440394997167030272/6a1190628cdb1a24630cbccc266cb9c2.png?size=512",
+      "socials": [
+        { "type": "discord", "nametag": "neit3912", "url": "https://discord.gg/DSTEAM" }
+      ]
+    },
+    {
+      "name": "Monkey D. Grap",
+      "role": "GAME MASTER · UI/UX",
+      "image": "https://cdn.discordapp.com/avatars/359886910929240074/70b0ededf9bea415b6e20fbcc62b3b8b.png?size=512",
+      "socials": [
+        {
+          "type": "discord",
+          "nametag": "bringmoneybackformom",
+          "url": "https://discord.gg/DSTEAM"
+        }
+      ]
+    }
+  ]
+}
