@@ -10,9 +10,9 @@ import {
   Footer,
 } from "@/components/dsteam/Sections";
 
-const title = "DSTEAM Development — Studio script FiveM Việt Nam";
+const title = "DSTEAM DEVELOPER — UI/UX script FiveM Việt Nam";
 const description =
-  "DSTEAM Development: đội ngũ phát triển script FiveM tại Việt Nam. Resource tối ưu, bảo mật, dễ mở rộng cho server GTA V roleplay.";
+  "DSTEAM DEVELOPER: đội ngũ phát triển script FiveM tại Việt Nam. Resource tối ưu, bảo mật, dễ mở rộng cho server GTA V roleplay.";
 
 export const Route = createFileRoute("/")({
   head: () => ({

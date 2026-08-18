@@ -84,7 +84,7 @@
     {
       "name": "WOLF TOWN",
       "location": "Việt Nam",
-      "image": "",
+      "image": "https://dteam.online/images/ora_city.png",
       "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
       "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
       "status": "Ngưng phát hành"
@@ -103,7 +103,7 @@
       "image": "",
       "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
       "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
+      "status": "Phát hành"
     },
     {
       "name": "VEXY CITY",
@@ -120,7 +120,7 @@
       "role": "3D DESIGNER",
       "image": "https://cdn.discordapp.com/avatars/1464613136744317018/4f09209ffc1c13793d3185416bc493bd.png?size=512",
       "socials": [
-        { "type": "discord", "nametag": "khangbin.DSTEAM", "url": "https://discord.gg/DSTEAM" }
+        { "type": "discord", "nametag": "khangbin.DSTEAM", "url": "https://dsteam.store/discord" }
       ]
     },
     {
@@ -128,7 +128,7 @@
       "role": "GAME MASTER",
       "image": "https://cdn.discordapp.com/avatars/1291999473643421746/80b9cdea8a4c50717cea0a041866aa38.png?size=512",
       "socials": [
-        { "type": "discord", "nametag": "embechauu", "url": "https://discord.gg/DSTEAM" }
+        { "type": "discord", "nametag": "embechauu", "url": "https://dsteam.store/discord" }
       ]
     },
     {
@@ -136,7 +136,7 @@
       "role": "GAME MASTER",
       "image": "https://cdn.discordapp.com/avatars/524131419962736640/5fbd08b4c178b562abf44c892ab95bd0.png?size=512",
       "socials": [
-        { "type": "discord", "nametag": "cam_mi3105", "url": "https://discord.gg/DSTEAM" }
+        { "type": "discord", "nametag": "cam_mi3105", "url": "https://dsteam.store/discord" }
       ]
     },
     {
@@ -144,7 +144,7 @@
       "role": "GAME MASTER",
       "image": "https://cdn.discordapp.com/avatars/402026159879094272/37dddac7d2f72f25c15eaaee47baed4e.png?size=512",
       "socials": [
-        { "type": "discord", "nametag": "1natszy_9", "url": "https://discord.gg/DSTEAM" }
+        { "type": "discord", "nametag": "1natszy_9", "url": "https://dsteam.store/discord" }
       ]
     },
     {
@@ -152,7 +152,7 @@
       "role": "GAME MASTER · UI/UX",
       "image": "https://cdn.discordapp.com/avatars/440394997167030272/6a1190628cdb1a24630cbccc266cb9c2.png?size=512",
       "socials": [
-        { "type": "discord", "nametag": "neit3912", "url": "https://discord.gg/DSTEAM" }
+        { "type": "discord", "nametag": "neit3912", "url": "https://dsteam.store/discord" }
       ]
     },
     {
@@ -163,7 +163,7 @@
         {
           "type": "discord",
           "nametag": "bringmoneybackformom",
-          "url": "https://discord.gg/DSTEAM"
+          "url": "https://dsteam.store/discord"
         }
       ]
     }

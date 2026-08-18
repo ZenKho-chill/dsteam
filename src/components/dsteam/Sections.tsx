@@ -53,11 +53,11 @@ export function Navbar() {
     <header className="fixed inset-x-0 top-0 z-50 border-b border-border/60 bg-background/85 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4">
         <span className="hidden items-center gap-2 rounded-full bg-destructive/25 px-3 py-1.5 text-xs text-foreground/90 ring-1 ring-destructive/40 xl:flex">
-          <span className="text-primary">★</span> Hoàng Sa &amp; Trường Sa là của Việt Nam
+          <span className="text-primary">★</span> From DSTEAM with love
         </span>
         <a href="#home" className="flex items-center gap-2">
           <span className="size-2.5 rounded-full bg-primary shadow-[0_0_12px_var(--color-primary)]" />
-          <span className="font-display text-lg font-bold tracking-wide">DTEAM DEVELOPMENT</span>
+          <span className="font-display text-lg font-bold tracking-wide">DSTEAM DEVELOPER</span>
         </a>
         <nav className="hidden items-center gap-6 lg:flex">
           {navLinks.map((l) => (
@@ -106,16 +106,16 @@ export function Hero() {
     <section id="home" className="relative min-h-[92vh] overflow-hidden pt-16">
       <img
         src={heroBanner}
-        alt="Thành phố Los Santos lúc hoàng hôn - banner DTEAM Development"
+        alt="Thành phố Los Santos lúc hoàng hôn - banner DSTEAM DEVELOPER"
         width={1920}
         height={1088}
         className="absolute inset-0 size-full object-cover opacity-70"
       />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_10%,var(--color-background)_85%)]" />
       <div className="relative mx-auto flex min-h-[80vh] max-w-4xl flex-col items-center justify-center px-4 text-center">
-        <p className="section-label">FiveM Development Studio</p>
+        <p className="section-label">FiveM DEVELOPER UI/UX</p>
         <h1 className="mt-4 text-5xl font-bold uppercase leading-[1.05] sm:text-7xl">
-          <span className="text-gradient-amber">DTEAM</span> DEVELOPMENT
+          <span className="text-gradient-amber">DSTEAM</span> DEVELOPER
         </h1>
         <p className="mt-5 max-w-2xl text-base text-muted-foreground sm:text-lg">
           Đội ngũ phát triển script FiveM tại Việt Nam — tối ưu, bảo mật và mở rộng được cho mọi máy
@@ -159,13 +159,13 @@ export function About() {
       <SectionHead label="Giới thiệu" title="Chúng tôi xây nên chất riêng cho server của bạn" />
       <div className="mt-10 space-y-5 text-muted-foreground">
         <p>
-          Chào mừng bạn đến với <strong className="text-foreground">DTEAM DEVELOPMENT</strong>, đội
+          Chào mừng bạn đến với <strong className="text-foreground">DS TEAM</strong>, đội
           ngũ phát triển script FiveM được thành lập bởi những người đam mê GTA V Roleplay tại Việt
           Nam. Từ những dòng code đầu tiên cho đến hàng trăm resource đã release, chúng tôi luôn theo
           đuổi một mục tiêu duy nhất: mang đến trải nghiệm roleplay sâu sắc và mượt mà cho cộng đồng.
         </p>
         <p>
-          Mỗi sản phẩm của DTEAM đều được xây dựng trên triết lý{" "}
+          Mỗi sản phẩm của DS TEAM đều được xây dựng trên triết lý{" "}
           <strong className="text-primary">"Tối ưu - Bảo mật - Mở rộng được"</strong>. Chúng tôi
           không chỉ viết code chạy được, mà còn tối ưu performance đến từng tick, bảo mật chặt chẽ
           trước mọi exploit, và thiết kế kiến trúc cho phép server admin dễ dàng tuỳ biến.
@@ -258,7 +258,7 @@ export function Projects() {
         title="Những sản phẩm nổi bật"
         desc="Một vài dự án chúng tôi đã thực hiện gần đây từ FiveM script đến công cụ web cho cộng đồng game"
       />
-      <div className="mt-8 flex justify-center gap-2">
+      {/* <div className="mt-8 flex justify-center gap-2">
         {["Tất cả", "Fivem"].map((f) => (
           <Button
             key={f}
@@ -269,14 +269,14 @@ export function Projects() {
             {f}
           </Button>
         ))}
-      </div>
+      </div> */}
       <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {projects.map((p) => (
           <article
             key={p.name}
             className="surface-card group overflow-hidden rounded-2xl transition-transform duration-300 hover:-translate-y-1.5"
           >
-            <div className="relative flex aspect-[16/10] items-center justify-center overflow-hidden bg-[image:var(--gradient-surface)]">
+            <div className="relative flex aspect-16/10 items-center justify-center overflow-hidden bg-(image:--gradient-surface)">
               <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,var(--color-primary)/25,transparent_60%)]" />
               <ProjectImage name={p.name} image={p.image} />
 
@@ -310,7 +310,7 @@ export function Team() {
   return (
     <section id="team" className="border-y border-border/60 bg-card/30 py-24">
       <div className="mx-auto max-w-7xl px-4">
-        <SectionHead label="Team" title="Đội ngũ DTEAM" desc="Những người đứng sau mỗi resource" />
+        <SectionHead label="Team" title="Đội ngũ DSTEAM" desc="Những người đứng sau mỗi resource" />
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {staff.map((m) => (
             <article key={m.name} className="surface-card rounded-2xl p-6 text-center">
@@ -405,7 +405,7 @@ export function Footer() {
       <div className="mx-auto max-w-4xl px-4 py-20 text-center">
         <h2 className="text-3xl font-bold uppercase">Sẵn sàng nâng cấp server của bạn?</h2>
         <p className="mt-4 text-muted-foreground">
-          Liên hệ DTEAM Development qua Discord để trao đổi về dự án FiveM của bạn.
+          Liên hệ DSTEAM DEVELOPER qua Discord để trao đổi về dự án FiveM của bạn.
         </p>
         <Button variant="discord" size="lg" className="mt-8" asChild>
           <a href={discordLink} target="_blank" rel="noreferrer">
@@ -413,7 +413,7 @@ export function Footer() {
           </a>
         </Button>
         <p className="mt-12 text-xs text-muted-foreground">
-          © {new Date().getFullYear()} DTEAM DEVELOPMENT. Made with ❤️ in Việt Nam.
+          © {new Date().getFullYear()} DSTEAM DEVELOPER. Made with ❤️ in Việt Nam.
         </p>
       </div>
     </footer>
