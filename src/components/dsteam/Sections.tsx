@@ -295,7 +295,7 @@ export function Projects() {
                   </Badge>
                 ))}
               </div>
-              <p className="pt-1 text-xs uppercase tracking-widest text-muted-foreground">
+              <p className="pt-1 text-xs uppercase tracking-widest text-white-600">
                 {p.status}
               </p>
             </div>

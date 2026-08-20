@@ -2,116 +2,12 @@
   "discordLink": "https://dsteam.store/discord",
   "projects": [
     {
-      "name": "LÀNG XÌ TRUM",
+      "name": "EMPIRE ROLEPLAY",
       "location": "Việt Nam",
-      "image": "",
+      "image": "https://media.discordapp.net/attachments/1398269232206188666/1539700889001005156/lgprm2.png?ex=6a87ee72&is=6a869cf2&hm=9429a5f75a9723a54dfdf1b549fed639c219bd1a8fb3a0c19a24701efc5ba7d0&=&format=webp&quality=lossless&width=1024&height=1024",
       "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
       "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "ORA CITY",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "THỊ TRẤN CÚ ĐÊM",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "CANDY WORLD",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "FOX TOWN",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "DOLLY CITY",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "BEAR HOUSE",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "BERRY GARDEN",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "TEDDY CITY",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "SUNSHINE",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "WOLF TOWN",
-      "location": "Việt Nam",
-      "image": "https://dteam.online/images/ora_city.png",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "SOLARIS",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
-    },
-    {
-      "name": "LOUD TOWN",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Phát hành"
-    },
-    {
-      "name": "VEXY CITY",
-      "location": "Việt Nam",
-      "image": "",
-      "desc": "Máy chủ mang phong cách nhập vai và sử dụng vũ khí cận chiến",
-      "tags": ["Roleplay", "Thời trang", "Gia Tộc"],
-      "status": "Ngưng phát hành"
+      "status": "Đang phát triển"
     }
   ],
   "staff": [
