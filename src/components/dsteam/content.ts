@@ -41,8 +41,8 @@ export type SiteContent = {
   staff: Staff[];
 };
 
-// Cho phép dùng ảnh local: đặt file vào src/assets rồi ghi tên file trong JSON
-const localAssets = import.meta.glob("../../assets/*", {
+// Cho phép dùng ảnh local: đặt file vào src/assets (kể cả thư mục con) rồi ghi tên file trong JSON
+const localAssets = import.meta.glob("../../assets/**/*", {
   eager: true,
   query: "?url",
   import: "default",
