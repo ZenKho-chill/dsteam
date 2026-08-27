@@ -97,7 +97,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: appCss,
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      {
+        rel: "icon",
+        href: "https://r2.fivemanage.com/TQVGMoLtdFrPviSM9YV21/cccc.png",
+        type: "image/png",
+      },
     ],
   }),
   shellComponent: RootShell,
